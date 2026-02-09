@@ -14,6 +14,10 @@ export default defineNuxtConfig({
     resendApiKey: ''
   },
 
+  nitro: {
+    preset: 'cloudflare-pages'
+  },
+
   compatibilityDate: '2025-01-01',
   future: {
     compatibilityVersion: 4
