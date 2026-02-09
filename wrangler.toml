@@ -1,5 +1,5 @@
 name = "skane-trafiken-schedule"
-pages_build_output_dir = ".output/public"
+pages_build_output_dir = "dist"
 compatibility_date = "2025-01-01"
 
 [[d1_databases]]
